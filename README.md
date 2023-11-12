@@ -1,6 +1,6 @@
 # Introduction
 
-Paper: Deep Learning Approach for Deduction of 3D Flexible Transformation Based on Multi-control Point Perception Data.
+Paper: Deep Learning Approach for Deduction of 3D Non-rigid Transformation Based on Multi-control Point Perception Data.
 
 # Tree View
 
